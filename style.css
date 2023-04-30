@@ -21,10 +21,10 @@ html {
     transition-property: all;
     transition-duration: 0.3s;
     transition-timing-function: ease;
-    transition-delay: 0.3s;
+/*     transition-delay: 0.3s; */
 }
 .step:hover .img-cls {
-  transform: scale(1.1);
+  transform: scale(1.16);
 }
 .txt {
     font-family: 'Caveat', cursive;
